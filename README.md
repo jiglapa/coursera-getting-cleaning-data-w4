@@ -1,9 +1,3 @@
----
-title: "README"
-author: "Javier Iglesia Aparicio"
-date: "27 de mayo de 2016"
-output: html_document
----
 ## Getting and Cleaning Data - Week 4
 
 Source dataset https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
