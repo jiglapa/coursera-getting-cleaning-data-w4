@@ -11,6 +11,8 @@ The script creates a new dataset from the originals with this features:
 
 Next columns are the mean of these features (see original data set for more information in these variables)
 
+| Features                    |
+|-----------------------------|
 | tBodyAcc-mean()-X           |
 | tBodyAcc-mean()-Y           |
 | tBodyAcc-mean()-Z           |
