@@ -17,13 +17,13 @@ Source dataset https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUC
 
 ## Notes
 
-*  Only vaiables containing mean() & std() are used.
-*  It doesn't requiere any additional package
+*  Only variables containing mean() & std() are used.
+*  It doesn't require any additional package
 *  Assumes the structure's dataset is unzipped in the current directory.
 
-Constructed using the following:
+## Constructed using the following:
 
-```platform       i386-w64-mingw32            
+platform       i386-w64-mingw32            
 arch           i386                        
 os             mingw32                     
 system         i386, mingw32               
@@ -37,7 +37,7 @@ svn rev        70573
 language       R                           
 version.string R version 3.3.0 (2016-05-03)
 nickname       Supposedly Educational   
-```
 
 
-Yields tidy_data.txt
+##Yields
+tidy_data.txt
