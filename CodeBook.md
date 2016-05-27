@@ -1,14 +1,3 @@
----
-title: "CodeBook"
-author: "Javier Iglesia Aparicio"
-date: "27 de mayo de 2016"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## CodeBook
 
 Data processed from UCI HAR Dataset by run_analysis.R.  See the [README](README.md) for additional details. 
@@ -20,7 +9,7 @@ The script creates a new dataset from the originals with this features:
 | Subject   | Unique identifier of the subjetc| integer |
 | Activity  | Label of the activity           | factor  |
 
-Next columns are the mean of these features
+Next columns are the mean of these features (see original data set for more information in these variables)
 
 | tBodyAcc-mean()-X           |
 | tBodyAcc-mean()-Y           |
